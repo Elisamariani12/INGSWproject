@@ -1,0 +1,361 @@
+[
+    {
+      "victoryPoints" : 4,
+      "resourceRequirements" : [],
+      "bannerRequirements" : [
+        {
+          "first" : "blue",
+          "second" : 2,
+          "third" : 1
+        }
+      ],
+      "abilityType" : "production_power",
+      "resourceType" : "",
+      "productionPower" : {
+        "requirements" : [
+          {
+            "type" : "servant",
+            "amount" : 1,
+            "maxSize" : 1
+          }
+        ],
+        "reward" : [
+          {
+            "type" : "generic",
+            "amount" : 1,
+            "maxSize" : 1
+          },
+          {
+            "type" : "faith",
+            "amount" : 1,
+            "maxSize" : 1
+          }
+        ],
+        "specialAbilityType" : "production_power"
+      },
+      "ID" : 1
+    },
+    {
+      "victoryPoints" : 4,
+      "resourceRequirements" : [],
+      "bannerRequirements" : [
+        {
+          "first" : "green",
+          "second" : 2,
+          "third" : 1
+        }
+      ],
+      "abilityType" : "production_power",
+      "resourceType" : "",
+      "productionPower" : {
+        "requirements" : [
+          {
+            "type" : "coin",
+            "amount" : 1,
+            "maxSize" : 1
+          }
+        ],
+        "reward" : [
+          {
+            "type" : "generic",
+            "amount" : 1,
+            "maxSize" : 1
+          },
+          {
+            "type" : "faith",
+            "amount" : 1,
+            "maxSize" : 1
+          }
+        ],
+        "specialAbilityType" : "production_power"
+      },
+      "ID" : 2
+    },
+    {
+      "victoryPoints" : 5,
+      "resourceRequirements" : [],
+      "bannerRequirements" : [
+        {
+          "first" : "yellow",
+          "second" : 1,
+          "third" : 2
+        },
+        {
+          "first" : "blue",
+          "second" : 1,
+          "third" : 1
+        }
+      ],
+      "abilityType" : "white_substitution",
+      "resourceType" : "servant",
+      "productionPower" : {},
+      "ID" : 3
+    },
+    {
+      "victoryPoints" : 4,
+      "resourceRequirements" : [],
+      "bannerRequirements" : [
+        {
+          "first" : "yellow",
+          "second" : 2,
+          "third" : 1
+        }
+      ],
+      "abilityType" : "production_power",
+      "resourceType" : "",
+      "productionPower" : {
+        "requirements" : [
+          {
+            "type" : "shield",
+            "amount" : 1,
+            "maxSize" : 1
+          }
+        ],
+        "reward" : [
+          {
+            "type" : "generic",
+            "amount" : 1,
+            "maxSize" : 1
+          },
+          {
+            "type" : "faith",
+            "amount" : 1,
+            "maxSize" : 1
+          }
+        ],
+        "specialAbilityType" : "production_power"
+      },
+      "ID" : 4
+    },
+    {
+      "victoryPoints" : 5,
+      "resourceRequirements" : [],
+      "bannerRequirements" : [
+        {
+          "first" : "green",
+          "second" : 1,
+          "third" : 2
+        }
+      ],
+      "abilityType" : "white_substitution",
+      "resourceType" : "shield",
+      "productionPower" : {},
+      "ID" : 5
+    },
+    {
+      "victoryPoints" : 3,
+      "resourceRequirements" : [
+        {
+          "type" : "shield",
+          "amount" : 5,
+          "maxSize" : 5
+        }
+      ],
+      "bannerRequirements" : [],
+      "abilityType" : "storage",
+      "resourceType" : "coin",
+      "productionPower" : {},
+      "ID" : 6
+    },
+    {
+      "victoryPoints" : 5,
+      "resourceRequirements" : [],
+      "bannerRequirements" : [
+        {
+          "first" : "blue",
+          "second" : 1,
+          "third" : 2
+        },
+        {
+          "first" : "yellow",
+          "second" : 1,
+          "third" : 1
+        }
+      ],
+      "abilityType" : "white_substitution",
+      "resourceType" : "stone",
+      "productionPower" : {},
+      "ID" : 7
+    },
+    {
+      "victoryPoints" : 3,
+      "resourceRequirements" : [
+        {
+          "type" : "coin",
+          "amount" : 5,
+          "maxSize" : 5
+        }
+      ],
+      "bannerRequirements" : [],
+      "abilityType" : "storage",
+      "resourceType" : "stone",
+      "productionPower" : {},
+      "ID" : 8
+    },
+    {
+      "victoryPoints" : 3,
+      "resourceRequirements" : [
+        {
+          "type" : "stone",
+          "amount" : 5,
+          "maxSize" : 5
+        }
+      ],
+      "bannerRequirements" : [],
+      "abilityType" : "storage",
+      "resourceType" : "servant",
+      "productionPower" : {},
+      "ID" : 9
+    },
+    {
+      "victoryPoints" : 2,
+      "resourceRequirements" : [],
+      "bannerRequirements" : [
+        {
+          "first" : "green",
+          "second" : 1,
+          "third" : 1
+        },
+        {
+          "first" : "blue",
+          "second" : 1,
+          "third" : 1
+        }
+      ],
+      "abilityType" : "discount",
+      "resourceType" : "stone",
+      "productionPower" : {},
+      "ID" : 10
+    },
+    {
+      "victoryPoints" : 5,
+      "resourceRequirements" : [],
+      "bannerRequirements" : [
+        {
+          "first" : "purple",
+          "second" : 1,
+          "third" : 2
+        },
+        {
+          "first" : "green",
+          "second" : 1,
+          "third" : 1
+        }
+      ],
+      "abilityType" : "white_substitution",
+      "resourceType" : "coin",
+      "productionPower" : {},
+      "ID" : 11
+    },
+    {
+      "victoryPoints" : 2,
+      "resourceRequirements" : [],
+      "bannerRequirements" : [
+        {
+          "first" : "yellow",
+          "second" : 1,
+          "third" : 1
+        },
+        {
+          "first" : "green",
+          "second" : 1,
+          "third" : 1
+        }
+      ],
+      "abilityType" : "discount",
+      "resourceType" : "servant",
+      "productionPower" : {},
+      "ID" : 12
+    },
+    {
+      "victoryPoints" : 2,
+      "resourceRequirements" : [],
+      "bannerRequirements" : [
+        {
+          "first" : "yellow",
+          "second" : 1,
+          "third" : 1
+        },
+        {
+          "first" : "purple",
+          "second" : 1,
+          "third" : 1
+        }
+      ],
+      "abilityType" : "discount",
+      "resourceType" : "coin",
+      "productionPower" : {},
+      "ID" : 13
+    },
+    {
+      "victoryPoints" : 4,
+      "resourceRequirements" : [],
+      "bannerRequirements" : [
+        {
+          "first" : "purple",
+          "second" : 2,
+          "third" : 1
+        }
+      ],
+      "abilityType" : "production_power",
+      "resourceType" : "",
+      "productionPower" : {
+        "requirements" : [
+          {
+            "type" : "stone",
+            "amount" : 1,
+            "maxSize" : 1
+          }
+        ],
+        "reward" : [
+          {
+            "type" : "generic",
+            "amount" : 1,
+            "maxSize" : 1
+          },
+          {
+            "type" : "faith",
+            "amount" : 1,
+            "maxSize" : 1
+          }
+        ],
+        "specialAbilityType" : "production_power"
+      },
+      "ID" : 14
+    },
+    {
+      "victoryPoints" : 3,
+      "resourceRequirements" : [
+        {
+          "type" : "servant",
+          "amount" : 5,
+          "maxSize" : 5
+        }
+      ],
+      "bannerRequirements" : [],
+      "abilityType" : "storage",
+      "resourceType" : "shield",
+      "productionPower" : {},
+      "ID" : 15
+    },
+    {
+      "victoryPoints" : 2,
+      "resourceRequirements" : [],
+      "bannerRequirements" : [
+        {
+          "first" : "blue",
+          "second" : 1,
+          "third" : 1
+        },
+        {
+          "first" : "purple",
+          "second" : 1,
+          "third" : 1
+        }
+      ],
+      "abilityType" : "discount",
+      "resourceType" : "shield",
+      "productionPower" : {},
+      "ID" : 16
+    }
+]

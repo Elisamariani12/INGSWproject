@@ -1,0 +1,1709 @@
+[
+		{
+		"ID" : 17,
+		"victoryPoints" : 3,
+		"cardLevel" : 1,
+		"bannerColor" : "green",
+		"resourceRequirements" : [{
+					"type" : "shield",
+					"amount" : 3,
+					"maxSize" : 3
+				  }],
+		"productionPower":
+		{
+			"requirements" :
+				 [{
+					"type" : "servant",
+					"amount" : 2,
+					"maxSize" : 2
+				  }],
+			"reward" :
+				[{
+					"type" : "coin",
+					"amount" : 1,
+					"maxSize" : 1
+				 },
+				{
+					"type" : "shield",
+					"amount" : 1,
+					"maxSize" : 1
+				},
+				{
+					"type" : "stone",
+					"amount" : 1,
+					"maxSize" : 1
+				}]
+		}
+	},
+	{
+		"ID": 18,
+		"victoryPoints" : 1,
+		"cardLevel" : 1,
+		"bannerColor" : "green",
+		"resourceRequirements" : [{
+			"type" : "shield",
+			"amount" : 2,
+			"maxSize" : 2
+		}],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "coin",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "faith",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+			]
+		}
+	},
+	{
+		"ID": 19,
+		"victoryPoints" : 4,
+		"cardLevel" : 1,
+		"bannerColor" : "green",
+		"resourceRequirements" : [{
+			"type" : "shield",
+			"amount" : 2,
+			"maxSize" : 2
+		},
+		{
+			"type" : "coin",
+			"amount" : 2,
+			"maxSize" : 2
+		}],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "stone",
+				"amount" : 1,
+				"maxSize" : 1
+			},
+			{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+			],
+			"reward" :
+			[{
+				"type" : "faith",
+				"amount" : 1,
+				"maxSize" : 1
+			},
+			{
+				"type" : "coin",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+			]
+		}
+	},
+	{
+		"ID": 20,
+		"victoryPoints" : 2,
+		"cardLevel" : 1,
+		"bannerColor" : "green",
+		"resourceRequirements" : [{
+				"type" : "shield",
+				"amount" : 1,
+				"maxSize" : 1
+			},
+			{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			},
+			{
+				"type" : "stone",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "stone",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+			]
+		}
+	},
+	{
+		"ID": 21,
+		"victoryPoints" : 6,
+		"cardLevel" : 2,
+		"bannerColor" : "green",
+		"resourceRequirements" : [{
+				"type" : "shield",
+				"amount" : 3,
+				"maxSize" : 3
+			},
+			{
+				"type" : "servant",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "shield",
+				"amount" : 1,
+				"maxSize" : 1
+			},
+			{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "stone",
+				"amount" : 3,
+				"maxSize" : 3
+			}
+			]
+		}
+	},
+	{
+		"ID": 22,
+		"victoryPoints" : 7,
+		"cardLevel" : 2,
+		"bannerColor" : "green",
+		"resourceRequirements" : [{
+			"type" : "shield",
+			"amount" : 5,
+			"maxSize" : 5
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "coin",
+				"amount" : 2,
+				"maxSize" : 2
+			}],
+			"reward" :
+			[{
+				"type" : "stone",
+				"amount" : 2,
+				"maxSize" : 2
+			},
+			{
+				"type" : "faith",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+			]
+		}
+	},
+	{
+		"ID": 23,
+		"victoryPoints" : 8,
+		"cardLevel" : 2,
+		"bannerColor" : "green",
+		"resourceRequirements" : [{
+			"type" : "coin",
+			"amount" : 3,
+			"maxSize" : 3
+		},
+			{
+				"type" : "shield",
+				"amount" : 3,
+				"maxSize" : 3
+			}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "coin",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "shield",
+				"amount" : 2,
+				"maxSize" : 2
+			},
+				{
+					"type" : "faith",
+					"amount" : 1,
+					"maxSize" : 1
+				}
+			]
+		}
+	},
+	{
+		"ID": 24,
+		"victoryPoints" : 5,
+		"cardLevel" : 2,
+		"bannerColor" : "green",
+		"resourceRequirements" : [{
+			"type" : "shield",
+			"amount" : 4,
+			"maxSize" : 4
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "stone",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "faith",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+			]
+		}
+	},
+	{
+		"ID": 25,
+		"victoryPoints" : 12,
+		"cardLevel" : 3,
+		"bannerColor" : "green",
+		"resourceRequirements" : [{
+			"type" : "shield",
+			"amount" : 4,
+			"maxSize" : 4
+		},
+			{
+				"type" : "coin",
+				"amount" : 4,
+				"maxSize" : 4
+			}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "stone",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "coin",
+				"amount" : 3,
+				"maxSize" : 3
+			},
+				{
+				"type" : "shield",
+				"amount" : 1,
+				"maxSize" : 1
+				}
+			]
+		}
+	},
+	{
+		"ID": 26,
+		"victoryPoints" : 9,
+		"cardLevel" : 3,
+		"bannerColor" : "green",
+		"resourceRequirements" : [{
+			"type" : "shield",
+			"amount" : 6,
+			"maxSize" : 6
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "servant",
+				"amount" : 2,
+				"maxSize" : 2
+			}],
+			"reward" :
+			[{
+				"type" : "stone",
+				"amount" : 3,
+				"maxSize" : 3
+			},
+				{
+					"type" : "faith",
+					"amount" : 2,
+					"maxSize" : 2
+				}
+			]
+		}
+	},
+	{
+		"ID": 27,
+		"victoryPoints" : 11,
+		"cardLevel" : 3,
+		"bannerColor" : "green",
+		"resourceRequirements" : [{
+			"type" : "shield",
+			"amount" : 7,
+			"maxSize" : 7
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "coin",
+				"amount" : 1,
+				"maxSize" : 1
+			},
+				{
+					"type" : "faith",
+					"amount" : 3,
+					"maxSize" : 3
+				}
+			]
+		}
+	},
+	{
+		"ID": 28,
+		"victoryPoints" : 10,
+		"cardLevel" : 3,
+		"bannerColor" : "green",
+		"resourceRequirements" : [{
+			"type" : "shield",
+			"amount" : 5,
+			"maxSize" : 5
+		},
+			{
+				"type" : "servant",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "coin",
+				"amount" : 1,
+				"maxSize" : 1
+			},
+				{
+					"type" : "servant",
+					"amount" : 1,
+					"maxSize" : 1
+				}],
+			"reward" :
+			[{
+				"type" : "shield",
+				"amount" : 2,
+				"maxSize" : 2
+			},
+				{
+					"type" : "faith",
+					"amount" : 1,
+					"maxSize" : 1
+				},
+				{
+					"type" : "stone",
+					"amount" : 2,
+					"maxSize" : 2
+				}
+			]
+		}
+	},
+	{
+		"ID": 29,
+		"victoryPoints" : 4,
+		"cardLevel" : 1,
+		"bannerColor" : "blue",
+		"resourceRequirements" : [{
+			"type" : "coin",
+			"amount" : 2,
+			"maxSize" : 2
+		},
+			{
+				"type" : "servant",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "shield",
+				"amount" : 1,
+				"maxSize" : 1
+			},
+				{
+					"type" : "stone",
+					"amount" : 1,
+					"maxSize" : 1
+				}],
+			"reward" :
+			[{
+				"type" : "servant",
+				"amount" : 2,
+				"maxSize" : 2
+			},
+				{
+					"type" : "faith",
+					"amount" : 1,
+					"maxSize" : 1
+				}
+			]
+		}
+	},
+	{
+		"ID": 30,
+		"victoryPoints" : 3,
+		"cardLevel" : 1,
+		"bannerColor" : "blue",
+		"resourceRequirements" : [{
+			"type" : "coin",
+			"amount" : 3,
+			"maxSize" : 3
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "stone",
+				"amount" : 2,
+				"maxSize" : 2
+			}],
+			"reward" :
+			[{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			},
+				{
+					"type" : "coin",
+					"amount" : 1,
+					"maxSize" : 1
+				},
+				{
+					"type" : "shield",
+					"amount" : 1,
+					"maxSize" : 1
+				}
+			]
+		}
+	},
+	{
+		"ID": 31,
+		"victoryPoints" : 2,
+		"cardLevel" : 1,
+		"bannerColor" : "blue",
+		"resourceRequirements" : [{
+			"type" : "coin",
+			"amount" : 1,
+			"maxSize" : 1
+		},
+			{
+				"type" : "stone",
+				"amount" : 1,
+				"maxSize" : 1
+			},
+			{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "stone",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+			]
+		}
+	},
+	{
+		"ID": 32,
+		"victoryPoints" : 1,
+		"cardLevel" : 1,
+		"bannerColor" : "blue",
+		"resourceRequirements" : [{
+			"type" : "coin",
+			"amount" : 2,
+			"maxSize" : 2
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "shield",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "faith",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+			]
+		}
+	},
+	{
+		"ID": 33,
+		"victoryPoints" : 5,
+		"cardLevel" : 2,
+		"bannerColor" : "blue",
+		"resourceRequirements" : [{
+			"type" : "coin",
+			"amount" : 4,
+			"maxSize" : 4
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "faith",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+			]
+		}
+	},
+	{
+		"ID": 34,
+		"victoryPoints" : 8,
+		"cardLevel" : 2,
+		"bannerColor" : "blue",
+		"resourceRequirements" : [{
+				"type" : "coin",
+				"amount" : 3,
+				"maxSize" : 3
+			},
+			{
+				"type" : "stone",
+				"amount" : 3,
+				"maxSize" : 3
+			}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "faith",
+				"amount" : 1,
+				"maxSize" : 1
+			},
+				{
+					"type" : "stone",
+					"amount" : 2,
+					"maxSize" : 2
+				}
+			]
+		}
+	},
+	{
+		"ID": 35,
+		"victoryPoints" : 6,
+		"cardLevel" : 2,
+		"bannerColor" : "blue",
+		"resourceRequirements" : [{
+			"type" : "coin",
+			"amount" : 3,
+			"maxSize" : 3
+		},
+			{
+				"type" : "stone",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "coin",
+				"amount" : 1,
+				"maxSize" : 1
+			},
+				{
+					"type" : "stone",
+					"amount" : 1,
+					"maxSize" : 1
+				}],
+			"reward" :
+			[{
+				"type" : "servant",
+				"amount" : 3,
+				"maxSize" : 3
+			}
+			]
+		}
+	},
+	{
+		"ID": 36,
+		"victoryPoints" : 7,
+		"cardLevel" : 2,
+		"bannerColor" : "blue",
+		"resourceRequirements" : [{
+			"type" : "coin",
+			"amount" : 5,
+			"maxSize" : 5
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "servant",
+				"amount" : 2,
+				"maxSize" : 2
+			}],
+			"reward" :
+			[{
+				"type" : "shield",
+				"amount" : 2,
+				"maxSize" : 2
+			},
+				{
+					"type" : "faith",
+					"amount" : 2,
+					"maxSize" : 2
+				}
+			]
+		}
+	},
+	{
+		"ID": 37,
+		"victoryPoints" : 9,
+		"cardLevel" : 3,
+		"bannerColor" : "blue",
+		"resourceRequirements" : [{
+			"type" : "coin",
+			"amount" : 6,
+			"maxSize" : 6
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "servant",
+				"amount" : 2,
+				"maxSize" : 2
+			}],
+			"reward" :
+			[{
+				"type" : "shield",
+				"amount" : 3,
+				"maxSize" : 3
+			},
+				{
+					"type" : "faith",
+					"amount" : 2,
+					"maxSize" : 2
+				}
+			]
+		}
+	},
+	{
+		"ID": 38,
+		"victoryPoints" : 10,
+		"cardLevel" : 3,
+		"bannerColor" : "blue",
+		"resourceRequirements" : [{
+			"type" : "coin",
+			"amount" : 5,
+			"maxSize" : 5
+		},{
+			"type" : "stone",
+			"amount" : 2,
+			"maxSize" : 2
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "coin",
+				"amount" : 1,
+				"maxSize" : 1
+			},{
+				"type" : "shield",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "faith",
+				"amount" : 1,
+				"maxSize" : 1
+			},
+				{
+					"type" : "servant",
+					"amount" : 2,
+					"maxSize" : 2
+				},
+				{
+					"type" : "stone",
+					"amount" : 2,
+					"maxSize" : 2
+				}
+			]
+		}
+	},
+	{
+		"ID": 39,
+		"victoryPoints" : 11,
+		"cardLevel" : 3,
+		"bannerColor" : "blue",
+		"resourceRequirements" : [{
+			"type" : "coin",
+			"amount" : 7,
+			"maxSize" : 7
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "stone",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "shield",
+				"amount" : 1,
+				"maxSize" : 1
+			},
+				{
+					"type" : "faith",
+					"amount" : 3,
+					"maxSize" : 3
+				}
+			]
+		}
+	},
+	{
+		"ID": 40,
+		"victoryPoints" : 12,
+		"cardLevel" : 3,
+		"bannerColor" : "blue",
+		"resourceRequirements" : [{
+			"type" : "coin",
+			"amount" : 4,
+			"maxSize" : 4
+		},{
+			"type" : "stone",
+			"amount" : 4,
+			"maxSize" : 4
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "shield",
+				"amount" : 3,
+				"maxSize" : 3
+			},
+				{
+					"type" : "coin",
+					"amount" : 1,
+					"maxSize" : 1
+				}
+			]
+		}
+	},
+	{
+		"ID": 41,
+		"victoryPoints" : 2,
+		"cardLevel" : 1,
+		"bannerColor" : "purple",
+		"resourceRequirements" : [{
+			"type" : "coin",
+			"amount" : 1,
+			"maxSize" : 1
+		},{
+			"type" : "servant",
+			"amount" : 1,
+			"maxSize" : 1
+		},{
+			"type" : "shield",
+			"amount" : 1,
+			"maxSize" : 1
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "shield",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+			]
+		}
+	},
+	{
+		"ID": 42,
+		"victoryPoints" : 4,
+		"cardLevel" : 1,
+		"bannerColor" : "purple",
+		"resourceRequirements" : [{
+			"type" : "stone",
+			"amount" : 2,
+			"maxSize" : 2
+		},{
+			"type" : "servant",
+			"amount" : 2,
+			"maxSize" : 2
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "coin",
+				"amount" : 1,
+				"maxSize" : 1
+			},{
+				"type" : "shield",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "stone",
+				"amount" : 2,
+				"maxSize" : 2
+			},{
+				"type" : "faith",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+			]
+		}
+	},
+	{
+		"ID": 43,
+		"victoryPoints" : 1,
+		"cardLevel" : 1,
+		"bannerColor" : "purple",
+		"resourceRequirements" : [{
+			"type" : "servant",
+			"amount" : 2,
+			"maxSize" : 2
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "stone",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "faith",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+			]
+		}
+	},
+	{
+		"ID": 44,
+		"victoryPoints" : 3,
+		"cardLevel" : 1,
+		"bannerColor" : "purple",
+		"resourceRequirements" : [{
+			"type" : "servant",
+			"amount" : 3,
+			"maxSize" : 3
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "coin",
+				"amount" : 2,
+				"maxSize" : 2
+			}],
+			"reward" :
+			[{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			},{
+				"type" : "shield",
+				"amount" : 1,
+				"maxSize" : 1
+			},{
+				"type" : "stone",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+			]
+		}
+	},
+	{
+		"ID": 45,
+		"victoryPoints" : 7,
+		"cardLevel" : 2,
+		"bannerColor" : "purple",
+		"resourceRequirements" : [{
+			"type" : "servant",
+			"amount" : 5,
+			"maxSize" : 5
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "stone",
+				"amount" : 2,
+				"maxSize" : 2
+			}],
+			"reward" :
+			[{
+				"type" : "coin",
+				"amount" : 2,
+				"maxSize" : 2
+			},{
+				"type" : "faith",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+			]
+		}
+	},
+	{
+		"ID": 46,
+		"victoryPoints" : 5,
+		"cardLevel" : 2,
+		"bannerColor" : "purple",
+		"resourceRequirements" : [{
+			"type" : "servant",
+			"amount" : 4,
+			"maxSize" : 4
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "coin",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "faith",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+			]
+		}
+	},
+	{
+		"ID": 47,
+		"victoryPoints" : 8,
+		"cardLevel" : 2,
+		"bannerColor" : "purple",
+		"resourceRequirements" : [{
+			"type" : "servant",
+			"amount" : 3,
+			"maxSize" : 3
+		},{
+			"type" : "shield",
+			"amount" : 3,
+			"maxSize" : 3
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "stone",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "faith",
+				"amount" : 1,
+				"maxSize" : 1
+			},{
+				"type" : "servant",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+			]
+		}
+	},
+	{
+		"ID": 48,
+		"victoryPoints" : 6,
+		"cardLevel" : 2,
+		"bannerColor" : "purple",
+		"resourceRequirements" : [{
+			"type" : "servant",
+			"amount" : 3,
+			"maxSize" : 3
+		},{
+			"type" : "coin",
+			"amount" : 2,
+			"maxSize" : 2
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "coin",
+				"amount" : 1,
+				"maxSize" : 1
+			},{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[{
+				"type" : "shield",
+				"amount" : 3,
+				"maxSize" : 3
+			}
+			]
+		}
+	},
+	{
+		"ID": 49,
+		"victoryPoints" : 10,
+		"cardLevel" : 3,
+		"bannerColor" : "purple",
+		"resourceRequirements" : [{
+			"type" : "servant",
+			"amount" : 5,
+			"maxSize" : 5
+		},{
+			"type" : "coin",
+			"amount" : 2,
+			"maxSize" : 2
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "stone",
+				"amount" : 1,
+				"maxSize" : 1
+			},{
+				"type" : "shield",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[	{
+				"type" : "coin",
+				"amount" : 2,
+				"maxSize" : 2
+				},
+				{
+					"type" : "servant",
+					"amount" : 2,
+					"maxSize" : 2
+				},
+				{
+				"type" : "faith",
+				"amount" : 1,
+				"maxSize" : 1
+				}
+			]
+		}
+	},
+	{
+		"ID": 50,
+		"victoryPoints" : 12,
+		"cardLevel" : 3,
+		"bannerColor" : "purple",
+		"resourceRequirements" : [{
+			"type" : "servant",
+			"amount" : 4,
+			"maxSize" : 4
+		},{
+			"type" : "shield",
+			"amount" : 4,
+			"maxSize" : 4
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "coin",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[	{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			},
+				{
+					"type" : "stone",
+					"amount" : 3,
+					"maxSize" : 3
+				}
+			]
+		}
+	},
+	{
+		"ID": 51,
+		"victoryPoints" : 11,
+		"cardLevel" : 3,
+		"bannerColor" : "purple",
+		"resourceRequirements" : [{
+			"type" : "servant",
+			"amount" : 7,
+			"maxSize" : 7
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "coin",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[	{
+				"type" : "faith",
+				"amount" : 3,
+				"maxSize" : 3
+			},
+				{
+					"type" : "stone",
+					"amount" : 1,
+					"maxSize" : 1
+				}
+			]
+		}
+	},
+	{
+		"ID": 52,
+		"victoryPoints" : 9,
+		"cardLevel" : 3,
+		"bannerColor" : "purple",
+		"resourceRequirements" : [{
+			"type" : "servant",
+			"amount" : 6,
+			"maxSize" : 6
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "stone",
+				"amount" : 2,
+				"maxSize" : 2
+			}],
+			"reward" :
+			[	{
+				"type" : "faith",
+				"amount" : 2,
+				"maxSize" : 2
+			},
+				{
+					"type" : "coin",
+					"amount" : 3,
+					"maxSize" : 3
+				}
+			]
+		}
+	},
+	{
+		"ID": 53,
+		"victoryPoints" : 1,
+		"cardLevel" : 1,
+		"bannerColor" : "yellow",
+		"resourceRequirements" : [{
+			"type" : "stone",
+			"amount" : 2,
+			"maxSize" : 2
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[	{
+				"type" : "faith",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+			]
+		}
+	},
+	{
+		"ID": 54,
+		"victoryPoints" : 3,
+		"cardLevel" : 1,
+		"bannerColor" : "yellow",
+		"resourceRequirements" : [{
+			"type" : "stone",
+			"amount" : 3,
+			"maxSize" : 3
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "shield",
+				"amount" : 2,
+				"maxSize" : 2
+			}],
+			"reward" :
+			[	{
+				"type" : "coin",
+				"amount" : 1,
+				"maxSize" : 1
+			},{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			},{
+				"type" : "stone",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+			]
+		}
+	},
+	{
+		"ID": 55,
+		"victoryPoints" : 4,
+		"cardLevel" : 1,
+		"bannerColor" : "yellow",
+		"resourceRequirements" : [{
+			"type" : "stone",
+			"amount" : 2,
+			"maxSize" : 2
+		},{
+			"type" : "shield",
+			"amount" : 2,
+			"maxSize" : 2
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type" : "coin",
+				"amount" : 1,
+				"maxSize" : 1
+			},{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			}],
+			"reward" :
+			[	{
+				"type" : "shield",
+				"amount" : 2,
+				"maxSize" : 2
+			},{
+				"type" : "faith",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+			]
+		}
+	},
+	{
+		"ID": 56,
+		"victoryPoints" : 2,
+		"cardLevel" : 1,
+		"bannerColor" : "yellow",
+		"resourceRequirements" : [{
+			"type" : "stone",
+			"amount" : 1,
+			"maxSize" : 1
+		},{
+			"type" : "shield",
+			"amount" : 1,
+			"maxSize" : 1
+		},{
+			"type" : "coin",
+			"amount" : 1,
+			"maxSize" : 1
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type": "shield",
+				"amount": 1,
+				"maxSize": 1
+			}],
+			"reward" :
+			[	{
+				"type" : "coin",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+			]
+		}
+	},
+	{
+		"ID": 57,
+		"victoryPoints" : 7,
+		"cardLevel" : 2,
+		"bannerColor" : "yellow",
+		"resourceRequirements" : [{
+			"type" : "stone",
+			"amount" : 5,
+			"maxSize" : 5
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type": "shield",
+				"amount": 2,
+				"maxSize": 2
+			}],
+			"reward" :
+			[	{
+				"type" : "servant",
+				"amount" : 2,
+				"maxSize" : 2
+			},{
+				"type" : "faith",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+			]
+		}
+	},
+	{
+		"ID": 58,
+		"victoryPoints" : 5,
+		"cardLevel" : 2,
+		"bannerColor" : "yellow",
+		"resourceRequirements" : [{
+			"type" : "stone",
+			"amount" : 4,
+			"maxSize" : 4
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type": "shield",
+				"amount": 1,
+				"maxSize": 1
+			}],
+			"reward" :
+			[{
+				"type" : "faith",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+			]
+		}
+	},
+	{
+		"ID": 59,
+		"victoryPoints" : 6,
+		"cardLevel" : 2,
+		"bannerColor" : "yellow",
+		"resourceRequirements" : [{
+			"type" : "stone",
+			"amount" : 3,
+			"maxSize" : 3
+		},
+			{
+				"type" : "shield",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type": "shield",
+				"amount": 1,
+				"maxSize": 1
+			},{
+				"type": "stone",
+				"amount": 1,
+				"maxSize": 1
+			}],
+			"reward" :
+			[{
+				"type" : "coin",
+				"amount" : 3,
+				"maxSize" : 3
+			}
+			]
+		}
+	},
+	{
+		"ID": 60,
+		"victoryPoints" : 8,
+		"cardLevel" : 2,
+		"bannerColor" : "yellow",
+		"resourceRequirements" : [{
+			"type" : "stone",
+			"amount" : 3,
+			"maxSize" : 3
+		},
+			{
+				"type" : "servant",
+				"amount" : 3,
+				"maxSize" : 3
+			}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type": "shield",
+				"amount": 1,
+				"maxSize": 1
+			}],
+			"reward" :
+			[{
+				"type" : "coin",
+				"amount" : 2,
+				"maxSize" : 2
+			},{
+				"type" : "faith",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+			]
+		}
+	},
+	{
+		"ID": 61,
+		"victoryPoints" : 12,
+		"cardLevel" : 3,
+		"bannerColor" : "yellow",
+		"resourceRequirements" : [{
+			"type" : "stone",
+			"amount" : 4,
+			"maxSize" : 4
+		},
+			{
+				"type" : "servant",
+				"amount" : 4,
+				"maxSize" : 4
+			}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type": "shield",
+				"amount": 1,
+				"maxSize": 1
+			}],
+			"reward" :
+			[{
+				"type" : "servant",
+				"amount" : 3,
+				"maxSize" : 3
+			},{
+				"type" : "stone",
+				"amount" : 1,
+				"maxSize" : 1
+			}
+			]
+		}
+	},
+	{
+		"ID": 62,
+		"victoryPoints" : 9,
+		"cardLevel" : 3,
+		"bannerColor" : "yellow",
+		"resourceRequirements" : [{
+			"type" : "stone",
+			"amount" : 6,
+			"maxSize" : 6
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type": "shield",
+				"amount": 2,
+				"maxSize": 2
+			}],
+			"reward" :
+			[{
+				"type" : "servant",
+				"amount" : 3,
+				"maxSize" : 3
+			},{
+				"type" : "faith",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+			]
+		}
+	},
+	{
+		"ID": 63,
+		"victoryPoints" : 11,
+		"cardLevel" : 3,
+		"bannerColor" : "yellow",
+		"resourceRequirements" : [{
+			"type" : "stone",
+			"amount" : 7,
+			"maxSize" : 7
+		}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type": "shield",
+				"amount": 1,
+				"maxSize": 1
+			}],
+			"reward" :
+			[{
+				"type" : "servant",
+				"amount" : 1,
+				"maxSize" : 1
+			},{
+				"type" : "faith",
+				"amount" : 3,
+				"maxSize" : 3
+			}
+			]
+		}
+	},
+	{
+		"ID": 64,
+		"victoryPoints" : 10,
+		"cardLevel" : 3,
+		"bannerColor" : "yellow",
+		"resourceRequirements" : [{
+			"type" : "stone",
+			"amount" : 5,
+			"maxSize" : 5
+		},
+			{
+				"type" : "servant",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+		],
+		"productionPower":
+		{
+			"requirements" :
+			[{
+				"type": "stone",
+				"amount": 1,
+				"maxSize": 1
+			},{
+				"type": "servant",
+				"amount": 1,
+				"maxSize": 1
+			}],
+			"reward" :
+			[{
+				"type" : "coin",
+				"amount" : 2,
+				"maxSize" : 2
+			},{
+				"type" : "faith",
+				"amount" : 1,
+				"maxSize" : 1
+			},{
+				"type" : "shield",
+				"amount" : 2,
+				"maxSize" : 2
+			}
+			]
+		}
+	}
+]

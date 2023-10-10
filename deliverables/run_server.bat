@@ -1,0 +1,1 @@
+java -jar GC07-Server.jar

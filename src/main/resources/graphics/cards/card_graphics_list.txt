@@ -1,0 +1,2 @@
+leader_cards:1-16
+dev_cards:17-64
